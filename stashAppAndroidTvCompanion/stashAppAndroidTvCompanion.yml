@@ -7,7 +7,6 @@ exec:
   - python
   - "{pluginDir}/stashAppAndroidTvCompanion.py"
 interface: raw
-errLog: warning
 tasks:
   - name: logcat
     description: Send android app's logcat logs
