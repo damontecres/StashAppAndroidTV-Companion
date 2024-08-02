@@ -6,4 +6,12 @@ This plugin does not do anything on its own, it is meant to be used in conjuncti
 
 ## Installation
 
-TODO
+The plugin is available in the default [CommunityScripts repository](https://github.com/stashapp/CommunityScripts/tree/main/plugins/stashAppAndroidTvCompanion), so it can be easily installed on your Stash server in Settings->Plugins.
+
+Under Available Plugin, search for `StashAppAndroidTV Companion` and click Install.
+
+## Features
+
+This is a companion plugin for the `StashAppAndroidTV` app and doesn't do anything on its own. It enables the following features in the app:
+1. Sending a report to your Stash server if the Android TV app crashes
+2. Sending a copy of app logs to your Stash server
