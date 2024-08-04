@@ -6,9 +6,9 @@ This plugin does not do anything on its own, it is meant to be used in conjuncti
 
 ## Installation
 
-The plugin is available in the default [CommunityScripts repository](https://github.com/stashapp/CommunityScripts/tree/main/plugins/stashAppAndroidTvCompanion), so it can be easily installed on your Stash server in Settings->Plugins.
+Starting with `v0.3.4` of `StashAppAndroidTV`, the app can trigger the companion plugin installation on your server. Just click `Install companion plugin` on the bottom of the settings page.
 
-Under Available Plugin, search for `StashAppAndroidTV Companion` and click Install.
+Alternatively, the plugin is available in the default [CommunityScripts repository](https://github.com/stashapp/CommunityScripts/tree/main/plugins/stashAppAndroidTvCompanion), so it can be easily installed on your Stash server in Settings->Plugins. Under Available Plugin, search for `StashAppAndroidTV Companion` and click Install.
 
 ## Features
 
